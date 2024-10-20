@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # eXtreme Go Horse (XGH)
 
 > - *Original source: http://gohorseprocess.wordpress.com, now inactive
@@ -9,11 +5,11 @@ layout: default
 
 ## Manifesto
 
-### 1. If you think, it's not XGH.
+### 1. Thinking, that's not XGH.
 
- In XGH you don't think, you do the first thing that comes to your mind. There's not a  second option as the first one is faster.
+With XGH don't think, do the first thing that comes to mind. There is no second option, the only option is the fastest.
 
-### 2. There are 3 ways of solving a problem: the right way, the wrong way and the XGH way which is the same as the wrong way, just but faster.
+### 2. There are 3 ways of solving a problem: the right way, the wrong way and the XGH way which is the same as the wrong way, just faster.
 
 XGH is faster than any software development process you know (see Axiom 14).
 

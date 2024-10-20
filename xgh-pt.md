@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # eXtreme Go Horse (XGH)
 
 > - *Fonte Original: http://gohorseprocess.wordpress.com, agora inativo*
